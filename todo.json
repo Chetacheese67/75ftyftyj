@@ -1,0 +1,1 @@
+[{"id":"DEPLOY-1","content":"Diagnose blank page issue on static hosts","status":"completed","priority":"high"},{"id":"DEPLOY-2","content":"Adjust configuration/assets so static build works on GitHub Pages and GoDaddy","status":"completed","priority":"high"},{"id":"DEPLOY-3","content":"Rebuild project and verify output","status":"completed","priority":"high"}]
